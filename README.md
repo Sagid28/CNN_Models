@@ -14,7 +14,7 @@ The foundational LeNet architecture, thoughtfully implemented and tailored to sp
 ### AlexNet
 Inspired by deep learning pioneers, the AlexNet model showcases my ability to harness influential architectures and adapt them for contemporary tasks.
 
-### MobileNetV1 & MobileNetV2
+### MobileNet-V1 & MobileNet-V2
 The streamlined and efficient MobileNet architectures illustrate my knack for optimizing CNNs for resource-constrained environments without compromising performance.
 
 ### VGG-16 & VGG-19
